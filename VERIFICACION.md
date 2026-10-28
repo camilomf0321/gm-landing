@@ -37,3 +37,11 @@ Revisión: 27 de octubre de 2026, America/Bogota.
 - No se ha realizado una matriz exhaustiva de navegadores ni pruebas con dispositivos físicos.
 - Los contenidos institucionales y comerciales provisionales requieren revisión antes de convertir este prototipo en la versión definitiva.
 - Se conserva `noindex, nofollow` para la revisión compartida.
+
+## Actualización del portafolio — 28 de octubre de 2026
+
+- Sustituidas las cuatro líneas iniciales por las tres líneas confirmadas por el usuario y sus siete referencias exactas.
+- Retirada la oferta de maquinaria amarilla; ajustados metadatos, portada, franja de líneas y pie de página.
+- Once enlaces de WhatsApp: siete consultas por producto y cuatro consultas generales. Número y mensajes verificados con Python y en navegador.
+- Revisión local visual de escritorio y móvil de 390 px; sin desbordamiento horizontal en móvil.
+- No se añadieron especificaciones técnicas, beneficios ni capacidades no confirmadas.

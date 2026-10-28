@@ -27,11 +27,19 @@ Abrir http://localhost:8080. No requiere instalación, compilación ni claves AP
 - `ASSETS.md`: procedencia de las imágenes.
 - `VERIFICACION.md`: comprobaciones realizadas y límites pendientes.
 
-WhatsApp confirmado por el usuario: **+57 316 395 8250**. Los ocho enlaces abren una conversación con un mensaje según la línea seleccionada; no envían mensajes automáticamente. Funcionan también sin JavaScript.
+WhatsApp confirmado por el usuario: **+57 316 395 8250**. Los once enlaces abren una conversación con un mensaje según la línea seleccionada; no envían mensajes automáticamente. Funcionan también sin JavaScript.
 
 Para cambiar el número, editar `whatsappNumber` en `config.js` (código de país y número, solo dígitos). Actualizar también los enlaces `wa.me` y el número visible en `index.html` para mantener el funcionamiento sin JavaScript. Si la configuración no contiene un número válido, JavaScript muestra un aviso informativo.
 
 Los contenidos comerciales se editan directamente en HTML. Las descripciones orientativas y notas provisionales permanecen identificadas. No se presentan clientes, años de experiencia, certificaciones, cobertura ni capacidades no verificadas.
+
+## Portafolio confirmado (28 de octubre de 2026)
+
+- **Emulsiones asfálticas:** CRL-1, CRR-1 y CRR-2.
+- **Asfaltos:** Asfalto 60/70, Asfalto AC-30 y Asfalto con polímeros tipo 3.
+- **Aceite industrial para quemadores en planta de asfalto.**
+
+Las siete referencias tienen enlaces de WhatsApp propios. Maquinaria amarilla fue retirada del portafolio y de los textos comerciales. No se añadieron propiedades ni especificaciones técnicas no suministradas.
 
 ## Publicación y actualizaciones
 
@@ -55,7 +63,7 @@ El proyecto no usa Workers, funciones de servidor, servicios de pago ni claves A
 
 - Correo, ubicación, cobertura y horario.
 - Reseña empresarial y propuesta de valor.
-- Referencias, fichas técnicas, presentaciones, modalidades de maquinaria y disponibilidad.
+- Fichas técnicas, presentaciones y disponibilidad.
 - Fotografías propias si se desea sustituir el recurso ilustrativo.
 
 La versión compartida conserva la franja de prototipo y `noindex, nofollow` para la revisión. Al aprobar el contenido definitivo, retirar los avisos de borrador y la etiqueta de no indexación; preparar metadatos sociales y URL canónica. El prototipo no incluye cookies, analítica ni formularios de captura.
