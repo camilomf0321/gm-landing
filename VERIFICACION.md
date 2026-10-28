@@ -45,3 +45,14 @@ Revisión: 27 de octubre de 2026, America/Bogota.
 - Once enlaces de WhatsApp: siete consultas por producto y cuatro consultas generales. Número y mensajes verificados con Python y en navegador.
 - Revisión local visual de escritorio y móvil de 390 px; sin desbordamiento horizontal en móvil.
 - No se añadieron especificaciones técnicas, beneficios ni capacidades no confirmadas.
+
+## Rediseño de empresa y productos — 28 de octubre de 2026
+
+- Texto empresarial sustituido por el texto exacto del usuario sobre cerca de 15 años; eliminados el recuadro del logo, su leyenda y el bloque provisional. Una sola acción de contacto en la sección.
+- Logo transparente RGBA, manteniendo el JPEG original intacto. Revisión visual de formas, colores, proporción y texto sobre el fondo claro.
+- Tres tarjetas blancas de igual ancho y altura en escritorio; acciones alineadas comprobadas mediante DOM. Tarjetas apiladas en móvil.
+- Renders industriales generados con ImageGen y optimizados a WebP (unos 115 KB en total para los tres productos). Procedencia y prompts en ASSETS.md.
+- Referencias en details/summary nativos: apertura con clic y teclado Enter comprobada; listas con los siete destinos originales de WhatsApp.
+- Encabezados de empresa y productos visibles por debajo del encabezado fijo; empresa en móvil: sección a 83.8 px, encabezado fijo hasta 78 px.
+- Sin desbordamiento horizontal a 390 y 320 px; imágenes cargadas correctamente.
+- Validación Python de títulos, texto empresarial, única acción, 11 destinos WhatsApp, enlaces internos, recursos e IDs únicos.

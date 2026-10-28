@@ -62,8 +62,12 @@ El proyecto no usa Workers, funciones de servidor, servicios de pago ni claves A
 ## Contenido pendiente de completar
 
 - Correo, ubicación, cobertura y horario.
-- Reseña empresarial y propuesta de valor.
+- Información institucional adicional que se desee publicar; la reseña de cerca de 15 años ya fue confirmada por el usuario.
 - Fichas técnicas, presentaciones y disponibilidad.
 - Fotografías propias si se desea sustituir el recurso ilustrativo.
 
 La versión compartida conserva la franja de prototipo y `noindex, nofollow` para la revisión. Al aprobar el contenido definitivo, retirar los avisos de borrador y la etiqueta de no indexación; preparar metadatos sociales y URL canónica. El prototipo no incluye cookies, analítica ni formularios de captura.
+
+## Diseño de productos y empresa
+
+Tarjetas blancas de igual ancho en escritorio, apiladas en móvil. Las referencias de emulsiones y asfaltos se abren con `details/summary`, accesible por teclado y sin JavaScript. Los siete destinos de WhatsApp se conservan. La sección empresarial incorpora el texto aprobado sobre cerca de 15 años de trayectoria y una versión transparente del logo. Renders WebP y prompts documentados en `ASSETS.md`.
